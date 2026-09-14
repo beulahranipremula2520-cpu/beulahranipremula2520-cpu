@@ -17,21 +17,24 @@
 
 ## 📚 Currently Learning
 
-- Python
+- Python  
 - CSS
 - Java
 - Web Development
 - Data Structures and Algorithms
+ 
+  ## 🚀 Goals
+
+- Build real-world projects
+- Improve my programming skills
+- Prepare for software engineering internships
+- Continue learning and growing as a software engineer
 
 ## 📌 Projects
 
 - [Personal Portfolio Website](https://beulahranipremula2520-cpu.github.io/personal-portfolio/)
 - [View Source Code](https://github.com/beulahranipremula2520-cpu/personal-portfolio/blob/730d8d6bb913df820db84e6e87f244339940c00a/index.html)
 
-## 🎯 Career Goal
-
-Looking for software development internships where I can
-apply my skills, build real-world projects, and continue learning.
 
 ## 📫 Connect With Me
 
