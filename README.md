@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Beulah Rani 👋
 
-<!--
-**beulahranipremula2520-cpu/beulahranipremula2520-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 3rd Year
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning programming and web development
+
+🚀 Building projects to strengthen my coding and problem-solving skills
+
+## 🛠️ Skills & Technologies
+
+- Python
+- HTML
+- CSS (Fundamentals)
+- Java (Basics)
+
+## 📚 Currently Learning
+
+- Python
+- CSS
+- Java
+- Web Development
+- Data Structures and Algorithms
+
+## 📌 Projects
+
+- Personal Portfolio Website
+
+## 🎯 Career Goal
+
+Looking for software development internships where I can
+apply my skills, build real-world projects, and continue learning.
+
+## 📫 Connect With Me
+
+-[LinkedIn]
+https://www.linkedin.com/in/beulah-rani-premula-7564003b2?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- GitHub
