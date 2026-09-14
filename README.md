@@ -25,7 +25,7 @@
 
 ## 📌 Projects
 
-- Personal Portfolio Website
+- [Personal Portfolio Website](https://github.com/beulahranipremula2520-cpu/personal-portfolio)
 
 ## 🎯 Career Goal
 
