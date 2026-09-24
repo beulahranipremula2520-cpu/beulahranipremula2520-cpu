@@ -12,6 +12,7 @@
 
 - Python
 - Java
+- SQL
 - HTML
 - CSS 
 - JavaScript
@@ -29,13 +30,12 @@
 - Improve my programming skills and problem-solving skills
 - Gain practical industry experience
 - Collaborate on team-based projects
-- Continuously learn to build
 
 ## 📌 Projects
 
 - [Personal Portfolio Website](https://beulahranipremula2520-cpu.github.io/personal-portfolio/)
 - [View Source Code](https://github.com/beulahranipremula2520-cpu/personal-portfolio/blob/730d8d6bb913df820db84e6e87f244339940c00a/index.html)
-- [student_grade_calculator]
+- [student_grade_calculator](https://github.com/beulahranipremula2520-cpu/student-grade-calculator/blob/main/student_grade_calc.py)
 
 
 ## 📫 Connect With Me
