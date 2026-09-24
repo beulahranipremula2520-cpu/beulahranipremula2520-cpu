@@ -2,23 +2,23 @@
 
 🎓 B.Tech CSE Student | 3rd Year
 
-💻 Aspiring Software Engineer
+💻 Learning programming and web develpoment
 
-🌱 Currently learning programming and web development
+🌱 Continuously learning and improving my problem-solving skills
 
-🚀 Building projects to strengthen my coding and problem-solving skills
+🚀 Building projects to strengthen my practical knowledge
 
 ## 🛠️ Skills & Technologies
 
 - Python
+- Java
 - HTML
-- CSS (Fundamentals)
-- Java (Basics)
+- CSS 
+- JavaScript
 
 ## 📚 Currently Learning
 
-- Python  
-- CSS
+- SQL
 - Java
 - Web Development
 - Data Structures and Algorithms
@@ -26,14 +26,16 @@
   ## 🚀 Goals
 
 - Build real-world projects
-- Improve my programming skills
-- Prepare for software engineering internships
-- Continue learning and growing as a software engineer
+- Improve my programming skills and problem-solving skills
+- Gain practical industry experience
+- Collaborate on team-based projects
+- Continuously learn to build
 
 ## 📌 Projects
 
 - [Personal Portfolio Website](https://beulahranipremula2520-cpu.github.io/personal-portfolio/)
 - [View Source Code](https://github.com/beulahranipremula2520-cpu/personal-portfolio/blob/730d8d6bb913df820db84e6e87f244339940c00a/index.html)
+- [student_grade_calculator]
 
 
 ## 📫 Connect With Me
