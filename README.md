@@ -40,5 +40,5 @@
 
 ## 📫 Connect With Me
 
--[LinkedIn](https://www.linkedin.com/in/beulah-rani-premula-7564003b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [GitHub]()
+ -[**LinkedIn**](https://www.linkedin.com/in/beulah-rani-premula-7564003b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [**GitHub**](https://github.com/beulahranipremula2520-cpu)
