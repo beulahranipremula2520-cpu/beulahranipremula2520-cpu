@@ -35,7 +35,7 @@
 
 - [**Personal Portfolio Website**](https://beulahranipremula2520-cpu.github.io/personal-portfolio/)
 - [**View Source Code(Personal Portfolio Website)**](https://github.com/beulahranipremula2520-cpu/personal-portfolio/blob/730d8d6bb913df820db84e6e87f244339940c00a/index.html)
-- [**Student_Grade_Calculator**](https://github.com/beulahranipremula2520-cpu/student-grade-calculator/blob/main/student_grade_calc.py)
+- [**Student_Grade_Calculator**](https://github.com/beulahranipremula2520-cpu/student-grade-calculator)
 - [**Expenses_Tracker**](https://github.com/beulahranipremula2520-cpu/Expenses_Tracker)
 
 
